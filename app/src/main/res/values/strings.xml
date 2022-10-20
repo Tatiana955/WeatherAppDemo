@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Weather</string>
+    <string name="widget_error_message">A network error occurred. The internet connection appears to be offline.</string>
+    <string name="hourly">Hourly</string>
+    <string name="daily">Daily</string>
+    <string name="weather_icon">Weather icon</string>
+    <string name="sunrise_icon">Sunrise icon</string>
+    <string name="sunset_icon">Sunset icon</string>
+    <string name="thermometer_icon">Thermometer icon</string>
+    <string name="precipitation_icon">Precipitation icon</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind_speed">Wind speed</string>
+    <string name="wind_direction">Wind direction</string>
+</resources>
